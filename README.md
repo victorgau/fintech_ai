@@ -60,7 +60,7 @@ RegTech:
 * [The DAO專案遭駭客盜走360萬個以太幣，價值暴跌逾40%](https://www.ithome.com.tw/news/106614)
 * [AI 語音模仿老闆聲音要求轉帳，成功騙走近 770 萬元](https://technews.tw/2019/09/05/fraudsters-voice-ai/)
 
-AI
+人工智慧(AI)
 
 * [人工智慧史](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%B2)
 * [完整解析AI人工智慧：3大浪潮＋3大技術＋3大應用｜大和有話說](https://dahetalk.com/2018/04/08/%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90ai%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%9A3%E5%A4%A7%E6%B5%AA%E6%BD%AE%EF%BC%8B3%E5%A4%A7%E6%8A%80%E8%A1%93%EF%BC%8B3%E5%A4%A7%E6%87%89%E7%94%A8%EF%BD%9C/)

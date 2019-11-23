@@ -16,8 +16,11 @@
 * [「理財規劃顧問的一天」](https://www.youtube.com/watch?v=aur-z_6sYyE)
 * [中國首家無人銀行正式上線！一個行員都不用就可以完成 90% 的銀行業務](https://buzzorange.com/techorange/2018/04/12/china-bank-without-people/)
 * [The Future of Financial Services](http://www3.weforum.org/docs/WEF_The_future__of_financial_services.pdf)
+* * [世界經濟論壇－未來的金融服務](https://www.stockfeel.com.tw/2015%E5%B9%B4%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%EF%BC%8D%E6%9C%AA%E4%BE%86%E7%9A%84%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99/)
 * [金融科技發展策略白皮書](http://www.tfsr.org.tw/Uploads/files/1050518%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%99%BC%E5%B1%95%E7%AD%96%E7%95%A5%E7%99%BD%E7%9A%AE%E6%9B%B8.pdf)
 * [【StockFeel 股感，來自生活 X 第一金投信】當金融遇上科技，FinTech開拓投資新視野](https://www.youtube.com/watch?v=j8le136cNKs)
+* [人工智慧在金融科技上的應用](https://scitechvista.nat.gov.tw/c/sTkv.htm)
+* [6應用看人工智慧改造台灣金融服務業的可能性](https://www.bnext.com.tw/article/44618/6-ai-financial-service-use-cases)
 
 InsurTech
 

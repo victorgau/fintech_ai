@@ -65,6 +65,7 @@ RegTech:
 * [人工智慧史](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%B2)
 * [完整解析AI人工智慧：3大浪潮＋3大技術＋3大應用｜大和有話說](https://dahetalk.com/2018/04/08/%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90ai%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%9A3%E5%A4%A7%E6%B5%AA%E6%BD%AE%EF%BC%8B3%E5%A4%A7%E6%8A%80%E8%A1%93%EF%BC%8B3%E5%A4%A7%E6%87%89%E7%94%A8%EF%BD%9C/)
 * [Google Duplex A.I. - How Does it Work?](https://www.youtube.com/watch?v=IuIpgArEZig)
+* [A quarter of Google Duplex calls are actually placed by humans](https://www.theverge.com/2019/5/22/18636138/google-duplex-human-callers-25-percent-ai-restaurant-booking)
 
 其他參考資料
 

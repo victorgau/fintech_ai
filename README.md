@@ -9,11 +9,14 @@
 
 我將投影片中會用到的一些參考資料，列在底下：
 
-金融科技：
+金融現狀：
 
 * [「證券營業員的一天」](https://www.youtube.com/watch?v=QhfXQRQHRgQ)
 * [「銀行員的一天」](https://www.youtube.com/watch?v=N9kY6YAEuIk)
 * [「理財規劃顧問的一天」](https://www.youtube.com/watch?v=aur-z_6sYyE)
+
+金融科技：
+
 * [中國首家無人銀行正式上線！一個行員都不用就可以完成 90% 的銀行業務](https://buzzorange.com/techorange/2018/04/12/china-bank-without-people/)
 * [The Future of Financial Services](http://www3.weforum.org/docs/WEF_The_future__of_financial_services.pdf)
 * * [世界經濟論壇－未來的金融服務](https://www.stockfeel.com.tw/2015%E5%B9%B4%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%EF%BC%8D%E6%9C%AA%E4%BE%86%E7%9A%84%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99/)
@@ -64,6 +67,7 @@ RegTech:
 
 * [人工智慧史](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%B2)
 * [完整解析AI人工智慧：3大浪潮＋3大技術＋3大應用｜大和有話說](https://dahetalk.com/2018/04/08/%E5%AE%8C%E6%95%B4%E8%A7%A3%E6%9E%90ai%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%9A3%E5%A4%A7%E6%B5%AA%E6%BD%AE%EF%BC%8B3%E5%A4%A7%E6%8A%80%E8%A1%93%EF%BC%8B3%E5%A4%A7%E6%87%89%E7%94%A8%EF%BD%9C/)
+* [會打電話的 AI 背後：Google Duplex 技術解析](http://technews.tw/2018/05/10/google-duplex-an-ai-system-for-accomplishing-real-world-tasks-over-the-phone/)
 * [Google Duplex A.I. - How Does it Work?](https://www.youtube.com/watch?v=IuIpgArEZig)
 * [A quarter of Google Duplex calls are actually placed by humans](https://www.theverge.com/2019/5/22/18636138/google-duplex-human-callers-25-percent-ai-restaurant-booking)
 

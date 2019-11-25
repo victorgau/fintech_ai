@@ -9,6 +9,16 @@
 
 我將投影片中用到的一些參考資料，列在底下：
 
+Python 相關：
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/fintech_ai/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/fintech_ai/)
+
+* [基礎概念](http://bit.ly/2Xkl9IG)
+* [Python簡介](http://bit.ly/2NNVswV)
+* [Python變數及資料型態](http://bit.ly/2ps9US0)
+* [Python基本語法](http://bit.ly/34pdlri)
+
 金融現狀：
 
 * [「證券營業員的一天」](https://www.youtube.com/watch?v=QhfXQRQHRgQ)
@@ -24,6 +34,7 @@
 * [【StockFeel 股感，來自生活 X 第一金投信】當金融遇上科技，FinTech開拓投資新視野](https://www.youtube.com/watch?v=j8le136cNKs)
 * [人工智慧在金融科技上的應用](https://scitechvista.nat.gov.tw/c/sTkv.htm)
 * [6應用看人工智慧改造台灣金融服務業的可能性](https://www.bnext.com.tw/article/44618/6-ai-financial-service-use-cases)
+* [交易員惡夢成真　150年投資銀行500人變3人](https://tw.appledaily.com/new/realtime/20180501/1344942/)
 
 InsurTech
 
@@ -43,7 +54,7 @@ RegTech:
 * [AI in Finance - Notebook](https://hilpisch.com/pycontw.html)
 * [MOPCON 2019 - 韓承佑博士 影片](https://www.youtube.com/watch?v=v7MgZLIc-ds)
 * [MOPCON 2019 - 韓承佑博士 投影片](https://www.finlab.tw/slide_mopcon.pdf)
-* [中華民國證券投資信託暨顧問商業同業公會證券投資顧問事業以自動化工具提供證券投資顧問服務（Robo-Advisor）作業要點](http://www.selaw.com.tw/LawContent.aspx?LawID=G0103923)
+* [Robo-Advisor作業要點](http://www.selaw.com.tw/LawContent.aspx?LawID=G0103923)
 * [自動化投資顧問(Robo-Advisor)相關規範](http://www.fsc.gov.tw/fckdowndoc?file=/01-1-5-13-%E5%B0%88%E9%A1%8C%E4%B8%80-%E8%87%AA%E5%8B%95%E5%8C%96%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F(Robo%20Advisor)%E7%9B%B8%E9%97%9C%E8%A6%8F%E7%AF%84.pdf&flag=doc)
 * [土炮股票分析系統](https://www.youtube.com/watch?v=zBtLOMBcH6E)
 * [土炮Line股票機器人](https://github.com/victorgau/PyConTW2018Talk)
